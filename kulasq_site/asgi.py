@@ -1,5 +1,5 @@
 """
-ASGI config for kkk project.
+ASGI config for kulasq_site project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
