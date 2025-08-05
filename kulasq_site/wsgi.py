@@ -1,5 +1,5 @@
 """
-WSGI config for kulasq_site project.
+WSGI config for kkk project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kulasq_site.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kkk.settings')
 
 application = get_wsgi_application()
